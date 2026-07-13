@@ -14,3 +14,14 @@ Automate CMMS Maintenance Alerts: Set up automated alert parameters inside syste
 Audit AI Data Calculations: Develop the oversight skills needed to spot computational noise, check mathematical errors, and refine baseline threshold alerts.
 
 Implement Total Productive Maintenance (TPM) Principles: Apply structural logging practices to support broader asset management goals.
+Unstructured Industrial Log Classification
+
+OEE Equation Modeling & Quantification
+
+Dynamic KPI Dashboard Architecture
+
+Predictive Maintenance Rule Configuration
+
+Automated CMMS Work Order Deployment
+
+Data Integrity Auditing & Anomaly Spottin
